@@ -22,7 +22,7 @@ This script only works with python2, then you should install python2 on your mac
 
  - apt install -y pip
 
-Dont worry, rest of libraries and dependencies will install during a execute python script
+😟 Dont worry, rest of libraries and dependencies will install during a execute python script
 
 ----------------------------
 
