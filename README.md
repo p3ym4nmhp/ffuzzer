@@ -9,13 +9,13 @@ Requirements:
 
 this script only works with python2 then you should install python2 on you machine with pip, with below instruction you can install both requirements under 1 minute
 
-- install python2
+install python2
   apt install -y python
 
-  -install pip
+install pip
    apt install -y pip
 
- - Dont worry, rest of libraries and dependecies will install during a execute python script
+Dont worry, rest of libraries and dependecies will install during a execute python script
 
  📌 How to Launch ?
 
