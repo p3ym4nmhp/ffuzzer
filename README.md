@@ -22,6 +22,8 @@ apt install -y pip
 
 Dont worry, rest of libraries and dependecies will install during a execute python script
 
+----------------------------
+
  📌 How to Launch ?
 
  cd python-admin-finder
