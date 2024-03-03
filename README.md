@@ -4,7 +4,7 @@ A powerful python script for finding admin panel quick and safe, on this script 
 We attached a file with name of (admin_panel_lists📁) with over 7000 admin panel links that can be used as a wordlist in your fuzzing process.
 
 For wordlist you can use (admin_panel_lists📁) file that contains lots of admin panel directory lists
-
+-------------------------------
 
 <img src="https://github.com/p3ym4nmhp/python-admin-finder/assets/161972215/3622a097-e8b6-42b5-a688-31115fa387e8" alt="python admin finder">
 
@@ -30,4 +30,4 @@ This script only works with python2, then you should install python2 on your mac
 
  cd python-admin-finder
  
- Usage: python admin_finder.py -u targer_url -w wordlist
+ python admin_finder.py -u targer_url -w wordlist
