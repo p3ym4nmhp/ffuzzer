@@ -7,6 +7,7 @@ For wordlist you can use (admin_panel_lists) file that contains lots of admin pa
 
 <img src="https://github.com/p3ym4nmhp/python-admin-finder/assets/161972215/3622a097-e8b6-42b5-a688-31115fa387e8" alt="python admin finder">
 
+-------------------------------
 Requirements:
 
 This script only works with python2 then you should install python2 on your machine with pip, with below instruction you can install both requirements under 1 minute
