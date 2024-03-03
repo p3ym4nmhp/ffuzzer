@@ -1,7 +1,7 @@
 # python-admin-finder
 A powerful python script for finding admin panel quick and safe, on this script we consider method of bypass firewall detection.
 
-We attached a file with name of (admin_panel_lists) with over 7000 admin panel links that can be used as a wordlist in your fuzzing process.
+We attached a file with name of (admin_panel_lists🪲) with over 7000 admin panel links that can be used as a wordlist in your fuzzing process.
 
 For wordlist you can use (admin_panel_lists) file that contains lots of admin panel directory lists
 
