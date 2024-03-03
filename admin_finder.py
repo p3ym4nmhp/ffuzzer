@@ -10,6 +10,8 @@ import sys
 import os
 import random
 import time
+import math
+start_script = time.time()
 #----------------------------------------------------------------------
 # import requests
 #----------------------------------------------------------------------
@@ -90,4 +92,7 @@ else:
 				print(Fore.RESET + '')
 	except Exception as e:
 		print ("Wordlist Not Found")
+end_script = math.ceil(time.time() - start_script)
 
+print (Fore.WHITE + '[' + Fore.BLUE + 'END' + Fore.WHITE +']' + ' '  + 'Script Finished: => ' + str(end_script) + ' seconds')
+print(Fore.RESET)
