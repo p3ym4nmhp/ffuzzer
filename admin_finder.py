@@ -77,16 +77,17 @@ else:
 		sys.exit(0)
 	try:
 		read_file = open(wordlist,'r').read().split()
-		os.system('touch ./output')
 		for item in read_file:
 			url2 = url + '/' + item
 			headers2 = {'User-Agent':random.choice(user_agents)}
 			final_req = requests.get(url2,headers=headers2,timeout=5)
 			status2 = final_req.status_code
 			if status2 == 200:
-				print (Fore.GREEN + 'Admin Panel: => ' + url2)
+				print (Fore.WHITE + '['+ Fore.GREEN + 'OK' + Fore.WHITE + ']' + ' ' + Fore.WHITE + 'Admin Panel: => ' + Fore.GREEN + url2)
+				print(Fore.RESET + '')
 			else:
-				print (Fore.RED + 'Login Error! => ' + url2) 
+				print (Fore.WHITE + '['+ Fore.RED + 'NOT' + Fore.WHITE + ']' + ' ' + Fore.WHITE + 'Login Error: => ' + Fore.RED + url2)
+				print(Fore.RESET + '')
 	except Exception as e:
 		print ("Wordlist Not Found")
 
