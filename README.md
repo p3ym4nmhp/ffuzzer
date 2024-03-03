@@ -5,6 +5,7 @@ We attached a file with name of (admin_panel_lists) with over 7000 admin panel l
 
 For wordlist you can use (admin_panel_lists) file that contains lots of admin panel directory lists
 
+
 <img src="https://github.com/p3ym4nmhp/python-admin-finder/assets/161972215/3622a097-e8b6-42b5-a688-31115fa387e8" alt="python admin finder">
 
 -------------------------------
