@@ -8,15 +8,15 @@ For wordlist you can use (admin_panel_lists) file that contains lots of admin pa
 <img src="https://github.com/p3ym4nmhp/python-admin-finder/assets/161972215/3622a097-e8b6-42b5-a688-31115fa387e8" alt="python admin finder">
 
 -------------------------------
-Requirements:
+🔥 Requirements:
 
 This script only works with python2 then you should install python2 on your machine with pip, with below instruction you can install both requirements under 1 minute
 
-install python2:
+1. install python2:
 
 apt install -y python
 
-install pip:
+2. install pip:
 
 apt install -y pip
 
@@ -24,7 +24,7 @@ Dont worry, rest of libraries and dependecies will install during a execute pyth
 
 ----------------------------
 
- 📌 How to Launch ?
+📌 How to Launch ?
 
  cd python-admin-finder
  
