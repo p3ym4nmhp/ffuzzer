@@ -35,7 +35,7 @@ This script works with python2 and python3 then you can install python2 or pyhto
 
  cd ffuzer
  
- 🥇 python ffuzer.py -u targer_url -w wordlist      =>   (For Directory Fuzzing)
+ python ffuzer.py -u targer_url -w wordlist      =>   (For Directory Fuzzing)
  
- 🥈 python ffuzer.py -u targer_url -w wordlist -s   =>   (For Subdomain Fuzzing)
+ python ffuzer.py -u targer_url -w wordlist -s   =>   (For Subdomain Fuzzing)
 
