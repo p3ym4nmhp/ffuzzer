@@ -11,7 +11,7 @@ Every success links in your fuzzing process will be logged in a seprate filename
 
 -------------------------------
 
-<img src="https://github.com/p3ym4nmhp/python-admin-finder/assets/161972215/3622a097-e8b6-42b5-a688-31115fa387e8" alt="python admin finder">
+<img src="https://github.com/p3ym4nmhp/ffuzer/assets/161972215/843d61a9-3e8a-41c3-b183-57ec2c022158" alt="python admin finder">
 
 -------------------------------
 
