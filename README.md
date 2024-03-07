@@ -1,4 +1,4 @@
-# ffuzer
+# ffuzzer
 A powerful python script for fuzzing admin panel and subdomain quick and safe, on this script we consider method of bypass firewall detection.
 
 We attached a file with name of (admin_panel_lists) with over 7000 🪙 admin panel lists and filename (subdomain_lists) with over 800 well known subdomain lists for our purpose that can be used as a wordlist in your fuzzing process.
