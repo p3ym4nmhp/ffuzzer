@@ -1,10 +1,13 @@
-# python-admin-finder
-A powerful python script for finding admin panel quick and safe, on this script we consider method of bypass firewall detection.
+# ffuzer
+A powerful python script for fuzzing admin panel and subdomain quick and safe, on this script we consider method of bypass firewall detection.
 
-We attached a file with name of (admin_panel_lists) with over 7000 🪙 admin panel links that can be used as a wordlist in your fuzzing process.
+We attached a file with name of (admin_panel_lists) with over 7000 🪙 admin panel lists and filename subdomain_lists with over 800 well known subdomain lists for our purpose that can be used as a wordlist in your fuzzing process.
 
-For wordlist you can use (admin_panel_lists📁) file that contains lots of admin panel directory lists
+This script works very well with both version of python2 and python3 without any problem
 
+We use multithreading method for increase speed of fuzzing process
+
+Every success links in your fuzzing process will be logged in a seprate filename "output" that will generate during a execution of script
 -------------------------------
 
 <img src="https://github.com/p3ym4nmhp/python-admin-finder/assets/161972215/3622a097-e8b6-42b5-a688-31115fa387e8" alt="python admin finder">
