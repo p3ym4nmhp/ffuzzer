@@ -8,6 +8,7 @@ This script works very well with both version of python2 and python3 without any
 We use multithreading method for increase speed of fuzzing process
 
 Every success links in your fuzzing process will be logged in a seprate filename "output" that will generate during a execution of script
+
 -------------------------------
 
 <img src="https://github.com/p3ym4nmhp/python-admin-finder/assets/161972215/3622a097-e8b6-42b5-a688-31115fa387e8" alt="python admin finder">
